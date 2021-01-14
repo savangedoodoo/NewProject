@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ASUS\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\ASUS\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.LoginForm.resources
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.RegisterForm.resources
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\bin\Debug\Project.exe
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\bin\Debug\Project.pdb
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.LoginForm.resources
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.RegisterForm.resources
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.exe
+C:\Users\Dell Precision\source\repos\savangedoodoo\Project\Project\obj\Debug\Project.pdb
+C:\Users\ASUS\source\repos\Project\Project\obj\Debug\Project.UserActivity.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.UserActivity.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.AddBook.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.LibrarianActivity.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.AdmRegister.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.StartPage.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.UserManegement.resources
+C:\Users\Dell Precision\Source\Repos\savangedoodoo\Project\Project\obj\Debug\Project.ChangePassword.resources
